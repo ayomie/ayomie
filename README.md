@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayomie
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning R, and Python programming language
-- 💞️ I’m looking to collaborate on with Data Analysis, ML and AI projects
+- 🌱 My core areas are Excel, R, and Python programming language
+- 👀 I am also interested in Machine Learning and Artificial Intelligence
+- 💞️ I'll work on any Data Analysis problems or projects
 - 📫 You can reach me on adeizaayo@gmail.com
 
 <!---
