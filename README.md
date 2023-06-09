@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayomie
-- 🌱 My core areas are Excel, R, and Python programming language
-- 👀 I am also interested in Machine Learning and Artificial Intelligence
+- 🌱 My core areas are Excel, Tableau, R, and Python programming language
+- 👀 I am also interested in PowerBi, Machine Learning and Artificial Intelligence
 - 💞️ I'll work on any Data Analysis problems or projects
 - 📫 You can reach me on adeizaayo@gmail.com
 
